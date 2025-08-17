@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# CatBoost files
+catboost_info/
